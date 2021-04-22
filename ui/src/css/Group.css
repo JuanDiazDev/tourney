@@ -1,0 +1,17 @@
+.container {
+    display: grid;
+    background-image: url("./../ucl.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+  }
+.group-container{
+  background-color: darkblue;
+  border-radius: 30px;
+  opacity: .7;
+  height: 80vh;
+  width: 80vh;
+  align-self: center;
+}
