@@ -53,6 +53,7 @@ MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware'
 ]
 
+
 ROOT_URLCONF = 'tourney.urls'
 
 TEMPLATES = [
